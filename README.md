@@ -50,7 +50,7 @@ sudo apt update && sudo apt install -y pandoc yad whiptail poppler-utils texlive
 ### Projeyi İndirme
 
 ```bash
-git clone https://github.com/burakegeyasar/pandoc-converter.git
+git clone https://github.com/bitkicayi/pandoc-converter.git
 cd pandoc-converter
 chmod +x pandoc-converter.sh
 ```
